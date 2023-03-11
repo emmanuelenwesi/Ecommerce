@@ -1,0 +1,27 @@
+a{
+    color:black;
+}
+::placeholder{
+    color:white
+}
+:-ms-input-placeholder{
+    color:black;
+}
+::-ms-input-placeholder{
+    color: black;
+}
+contact .info-item .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    font-size: 24px;
+    line-height: 0;
+    color: #fff;
+    background: var(--color-primary);
+    border-radius: 50%;
+    margin-right: 15px;}
+
+
+    
